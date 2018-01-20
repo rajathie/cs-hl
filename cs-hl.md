@@ -1,5 +1,11 @@
+# 2018-01-20 - 13:00 to 14:30
+- CPU / RAM meltdown and spectre
+- decoupling / layering in computers (kernel, operating system, JVM)
+- collaboration via source code magement system: git / github
+
 # 2018-01-13 - 12:30 to 14:00
-- 
+- control systems (open and closed)
+- digital / analog converter
 
 # 2018-01-06 - 11:10 to 12:40
 - scissor, stone, paper implementation refactored
