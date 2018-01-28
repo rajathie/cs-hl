@@ -1,3 +1,14 @@
+# 2018-01-28 - 17:30 to 18:30
+- Class String: functions and examples
+- Literals, String parsing
+- Exceptions
+- Excourse: XCode Simulator
+
+# 2018-01-25 - 16:20 to 17:20
+- XCode: Swift and Objective-C
+- Java AWT, Swing, JavaFX - UI Modeling
+- Listener Pattern
+
 # 2018-01-20 - 13:00 to 14:30
 - CPU / RAM meltdown and spectre
 - decoupling / layering in computers (kernel, operating system, JVM)
