@@ -1,3 +1,11 @@
+# 2018-02-03 - 16:30 to 18:30
+- (crypto)-currency introduction
+- blockchain introduction
+
+# 2018-02-01 - 16:20 to 17:20
+- general overview of past and future topics
+- aims and schedule for 2018 and 2019
+
 # 2018-01-28 - 17:30 to 18:30
 - Class String: functions and examples
 - Literals, String parsing
