@@ -1,7 +1,16 @@
+# 2018-03-17 - 9:15 to 10:45
+- Java Hamster - Chapter 7
+- Tasks 7.7.1 and 7.7.3
+- essay option 2: financial tax search algorithm in eVM-blockchain
+
+# 2018-03-08 - 16:20 to 17:20
+- example exam discussion
+- abstract data structure / collection introduction: array, list, queues (FIFO), stacks (LIFO)
+
 # 2018-03-03 - 13:00 to 14:30
 - vacation review / discussion regarding blockchain technology
 - coding task discussion for essay
-- option 1: recursion and towers of hanoi in eVM
+- option 1: recursion and Towers of Hanoi in eVM
 - option 2: financial tax search algorithm in eVM-blockchain
 - introduction and first tasks for basic Java knowledge via „Java Hamster“
 
