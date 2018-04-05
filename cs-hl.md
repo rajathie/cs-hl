@@ -1,3 +1,7 @@
+# 2018-03-24 - 12:30 to 14:40
+- Java Hamster - Chapter 8
+- Tasks 8.7.3 and 8.7.14
+
 # 2018-03-17 - 9:15 to 10:45
 - Java Hamster - Chapter 7
 - Tasks 7.7.1 and 7.7.3
