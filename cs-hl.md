@@ -1,3 +1,9 @@
+# 2018-04-18 - 16:20 to 17:20
+- CS HL course task: Password Protector - part 2
+
+# 2018-04-12 - 16:20 to 17:20
+- CS HL course task: Password Protector - part 1
+
 # 2018-03-24 - 12:30 to 14:40
 - Java Hamster - Chapter 8
 - Tasks 8.7.3 and 8.7.14
