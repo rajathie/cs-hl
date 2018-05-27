@@ -1,3 +1,9 @@
+# 2018-05-31 - 16:20 to 17:20
+- 
+
+# 2018-05-27 - 11:15 to 12:45
+- 
+
 # 2018-04-18 - 16:20 to 17:20
 - CS HL course task: Password Protector - part 2
 
