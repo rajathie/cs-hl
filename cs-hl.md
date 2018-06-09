@@ -1,3 +1,33 @@
+# 2018-08-26 - 14:00 to 15:30
+- 
+
+# 2018-08-25 - 14:00 to 15:30
+- Java Hamster - Chapter 17
+
+# 2018-08-19 - 14:00 to 15:30
+- Java Hamster - Chapter 16
+
+# 2018-08-05 - 14:00 to 15:30
+- Java Hamster - Chapter 15
+
+# 2018-07-15 - 14:00 to 15:30
+- Java Hamster - Chapter 14
+
+# 2018-07-14 - 14:00 to 15:30
+- Java Hamster - Chapter 13
+
+# 2018-07-01 - 14:00 to 15:30
+- Java Hamster - Chapter 12
+
+# 2018-06-30 - 14:00 to 15:30
+- Java Hamster - Chapter 11
+
+# 2018-06-24 - 14:00 to 15:30
+- Java Hamster - Chapter 10
+
+# 2018-06-17 - 14:00 to 15:30
+- Extended essay
+
 # 2018-06-16 - 14:00 to 15:30
 - Java Hamster - Chapter 9
 - Tasks 9.8.3 and 9.8.8
