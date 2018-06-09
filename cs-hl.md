@@ -27,6 +27,7 @@
 
 # 2018-06-17 - 14:00 to 15:30
 - Extended essay
+- timeline for the upcoming weeks!
 
 # 2018-06-16 - 14:00 to 15:30
 - Java Hamster - Chapter 9
