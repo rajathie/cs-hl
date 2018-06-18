@@ -27,7 +27,7 @@
 - Tasks 9.8.3 and 9.8.8
 
 # 2018-06-17 - 14:00 to 15:30
-- [Extended essay - technical setup][https://github.com/rajathie/extended-essay/blob/master/main.adoc]
+- [Extended essay - technical setup](https://github.com/rajathie/extended-essay/blob/master/main.adoc)
 
 # 2018-06-09 - 14:00 to 15:30
 - cs-hl-paper1-2018
