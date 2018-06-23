@@ -23,6 +23,9 @@
 - Java Hamster - Chapter 10
 
 # 2018-06-24 - 14:00 to 15:30
+- 
+
+# 2018-06-23 - 10:30 to 12:00
 - Java Hamster - Chapter 9
 - Tasks 9.8.3 and 9.8.8
 
