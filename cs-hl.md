@@ -17,10 +17,11 @@
 - Java Hamster - Chapter 12
 
 # 2018-07-01 - 14:00 to 15:30
-
-# 2018-06-30 - 14:00 to 15:30
 - Java Hamster - Chapter 11
 - Tasks 10.5.1 und 10.5.3
+
+# 2018-06-30 - 14:00 to 15:30
+- Task 10.5.1 solution discussion
 
 # 2018-06-24 - 14:00 to 15:30
 - Java Hamster - Chapter 9
