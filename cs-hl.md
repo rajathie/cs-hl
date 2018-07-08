@@ -16,8 +16,16 @@
 # 2018-07-14 - 14:00 to 15:30
 - Java Hamster - Chapter 12
 
-# 2018-07-01 - 14:00 to 15:30
+# 2018-07-08 - 18:15 to 19:45
 - Java Hamster - Chapter 11
+- Tasks 10.5.3
+
+# 2018-07-06 - 15:15 to 16:45
+- Java Hamster - Chapter 11
+- Tasks 10.5.1
+
+# 2018-07-01 - 14:00 to 15:30
+- Java Hamster - Chapter 10
 - Tasks 10.5.1 und 10.5.3
 
 # 2018-06-30 - 14:00 to 15:30
