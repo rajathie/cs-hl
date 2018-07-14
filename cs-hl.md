@@ -11,10 +11,14 @@
 - Java Hamster - Chapter 14
 
 # 2018-07-15 - 14:00 to 15:30
-- Java Hamster - Chapter 13
+- Java Hamster - Chapter 11
+- Tasks 10.7.15
 
-# 2018-07-14 - 14:00 to 15:30
-- Java Hamster - Chapter 12
+# 2018-07-14 - 14:30 to 16:00
+- Java Hamster - Chapter 11
+- Tasks 10.7.1
+- Backup Disc
+- initial commit for cs-hl extended essay
 
 # 2018-07-08 - 18:15 to 19:45
 - Java Hamster - Chapter 11
