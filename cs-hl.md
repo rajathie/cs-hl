@@ -1,15 +1,23 @@
-# 2018-08-26 - 14:00 to 15:30
-- Java Hamster
+# 2018-09-02 - 14:00 to 15:30
+- extended-essay - alter example used for essay topic
+- Java Hamster - Tasks 11.7.15
 
-# 2018-08-25 - 14:00 to 15:30
-- Java Hamster
+# 2018-09-01 - 12:00 to 13:30
+- teacher feedback discussion
+ - extended-essay - recommendation: alter example used for essay topic
+ - foodbot Criteria B extended / explained: use cases and raw entity model
+- Java Hamster - Tasks 11.7.15
+
+# 2018-08-26 - 14:00 to 15:30
+- Java Hamster - Chapter 11
+- Tasks 11.7.15
 
 # 2018-08-19 - 13:00 to 14:30
 - Extended essay
 
 # 2018-07-15 - 14:00 to 15:30
 - Java Hamster - Chapter 11
-- Tasks 10.7.15
+- Tasks 11.7.15
 
 # 2018-07-14 - 14:30 to 16:00
 - Java Hamster - Chapter 11
