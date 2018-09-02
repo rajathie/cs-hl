@@ -16,7 +16,7 @@
 # 2018-09-08 - 12:00 to 13:30
 - 
 
-# 2018-09-02 - 14:00 to 15:30
+# 2018-09-02 - 15:00 to 16:30
 - extended-essay - alter example used for essay topic
 - Java Hamster - Tasks 11.7.15
 
